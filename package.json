@@ -10,7 +10,6 @@
         "url": "https://github.com/derniercri/ts-config-derniercri/issues"
     },
     "homepage": "https://github.com/derniercri/ts-config-derniercri",
-    "dependencies": {},
     "private": "false",
     "devDependencies": {
         "@tsconfig/react-native": "^2.0.2"
