@@ -10,10 +10,10 @@ Create or edit a `tsconfig.json` file at project's root :
 
 ```js
 {
-  // Web
+  // Web (React)
   "extends": "ts-config-derniercri/tsconfig.web.json"
 
-  // Mobile
+  // Mobile (React Native)
   "extends": "ts-config-derniercri/tsconfig.mobile.json"
 }
 ```
