@@ -1,0 +1,20 @@
+{
+    "extends": "@tsconfig/react-native/tsconfig.json",
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "allowJs": false,
+      "skipLibCheck": true,
+      "baseUrl": ".",
+      "typeRoots": ["./src/types"]
+    },
+    "exclude": [
+      "node_modules",
+      "babel.config.js",
+      "metro.config.js",
+      "jest.config.js"
+    ]
+  }
+  

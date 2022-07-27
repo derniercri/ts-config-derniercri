@@ -10,7 +10,7 @@ Create or edit a `tsconfig.json` file at project's root :
 
 ```js
 {
-  "extends": "ts-config-derniercri/tsconfig.json"
+  "extends": "ts-config-derniercri/tsconfig.mobile.json"
 }
 ```
 
