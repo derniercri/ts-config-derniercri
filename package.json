@@ -1,0 +1,18 @@
+{
+    "name": "ts-config-derniercri",
+    "version": "1.0.0",
+    "description": "Dernier Cri TypeScript config",
+    "main": "index.js",
+    "repository": "git@github.com:derniercri/ts-config.git",
+    "author": "Martin Frouin <martin.frouin@derniercri.io>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/derniercri/ts-config-derniercri/issues"
+    },
+    "homepage": "https://github.com/derniercri/ts-config-derniercri",
+    "dependencies": {},
+    "private": "false",
+    "devDependencies": {
+        "@tsconfig/react-native": "^2.0.2"
+    }
+}
